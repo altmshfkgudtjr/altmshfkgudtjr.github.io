@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/static/js/main.b6eb034c.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.8cee73d3.js",
+    "static/js/2.71f85fbc.chunk.js": "/static/js/2.71f85fbc.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.5f66b1423c87a744965ed837cd7160e5.js": "/precache-manifest.5f66b1423c87a744965ed837cd7160e5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.71f85fbc.chunk.js.LICENSE.txt": "/static/js/2.71f85fbc.chunk.js.LICENSE.txt",
+    "static/media/bigHexagonal.754f2a7a.svg": "/static/media/bigHexagonal.754f2a7a.svg",
+    "static/media/clip.da0192b9.svg": "/static/media/clip.da0192b9.svg",
+    "static/media/hexaB.16b8ba81.svg": "/static/media/hexaB.16b8ba81.svg",
+    "static/media/hexaE.1a0a72ae.svg": "/static/media/hexaE.1a0a72ae.svg",
+    "static/media/hexaF.d29330d3.svg": "/static/media/hexaF.d29330d3.svg",
+    "static/media/hexaW.61d6998b.svg": "/static/media/hexaW.61d6998b.svg",
+    "static/media/hexagonal.c4ab6b22.svg": "/static/media/hexagonal.c4ab6b22.svg",
+    "static/media/inner.ea133d64.svg": "/static/media/inner.ea133d64.svg",
+    "static/media/outer.309da428.svg": "/static/media/outer.309da428.svg",
+    "static/media/print.b06edb02.svg": "/static/media/print.b06edb02.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cee73d3.js",
+    "static/js/2.71f85fbc.chunk.js",
+    "static/js/main.b6eb034c.chunk.js"
+  ]
+}
