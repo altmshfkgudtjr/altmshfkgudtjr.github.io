@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.js": "/static/js/main.6a47a175.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.8cee73d3.js",
-    "static/js/2.71f85fbc.chunk.js": "/static/js/2.71f85fbc.chunk.js",
+    "main.js": "/static/js/main.9cd1a677.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.f7b3195b.js",
+    "static/js/2.6b34ec66.chunk.js": "/static/js/2.6b34ec66.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.ae302e378e5126dcf9730d2b7b0c6389.js": "/precache-manifest.ae302e378e5126dcf9730d2b7b0c6389.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.71f85fbc.chunk.js.LICENSE.txt": "/static/js/2.71f85fbc.chunk.js.LICENSE.txt",
-    "static/media/bigHexagonal.754f2a7a.svg": "/static/media/bigHexagonal.754f2a7a.svg",
-    "static/media/clip.da0192b9.svg": "/static/media/clip.da0192b9.svg",
-    "static/media/hexaB.16b8ba81.svg": "/static/media/hexaB.16b8ba81.svg",
-    "static/media/hexaE.1a0a72ae.svg": "/static/media/hexaE.1a0a72ae.svg",
-    "static/media/hexaF.d29330d3.svg": "/static/media/hexaF.d29330d3.svg",
-    "static/media/hexaW.61d6998b.svg": "/static/media/hexaW.61d6998b.svg",
-    "static/media/hexagonal.c4ab6b22.svg": "/static/media/hexagonal.c4ab6b22.svg",
-    "static/media/inner.ea133d64.svg": "/static/media/inner.ea133d64.svg",
-    "static/media/outer.309da428.svg": "/static/media/outer.309da428.svg",
-    "static/media/print.b06edb02.svg": "/static/media/print.b06edb02.svg"
+    "static/js/2.6b34ec66.chunk.js.LICENSE.txt": "/static/js/2.6b34ec66.chunk.js.LICENSE.txt",
+    "static/media/bigHexagonal.387d48a6.svg": "/static/media/bigHexagonal.387d48a6.svg",
+    "static/media/clip.3cf66923.svg": "/static/media/clip.3cf66923.svg",
+    "static/media/close.452d4b82.svg": "/static/media/close.452d4b82.svg",
+    "static/media/firecracker.22b83a99.svg": "/static/media/firecracker.22b83a99.svg",
+    "static/media/hexaB.50827ff9.svg": "/static/media/hexaB.50827ff9.svg",
+    "static/media/hexaE.f67295c2.svg": "/static/media/hexaE.f67295c2.svg",
+    "static/media/hexaF.582b7672.svg": "/static/media/hexaF.582b7672.svg",
+    "static/media/hexaW.3d1c96cd.svg": "/static/media/hexaW.3d1c96cd.svg",
+    "static/media/hexagonal.5f7aff2e.svg": "/static/media/hexagonal.5f7aff2e.svg",
+    "static/media/inner.69ae6da2.svg": "/static/media/inner.69ae6da2.svg",
+    "static/media/outer.69950ee7.svg": "/static/media/outer.69950ee7.svg",
+    "static/media/print.8d628814.svg": "/static/media/print.8d628814.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8cee73d3.js",
-    "static/js/2.71f85fbc.chunk.js",
-    "static/js/main.6a47a175.chunk.js"
+    "static/js/runtime-main.f7b3195b.js",
+    "static/js/2.6b34ec66.chunk.js",
+    "static/js/main.9cd1a677.chunk.js"
   ]
 }
