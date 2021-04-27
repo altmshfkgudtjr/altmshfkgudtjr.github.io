@@ -9,6 +9,5 @@ Allow: /main
 Allow: /concept
 Allow: /making
 Allow: /project
-Disallow: /profile
 
 Sitemap: https://altmshfkgudtjr.github.io/sitemap.xml
