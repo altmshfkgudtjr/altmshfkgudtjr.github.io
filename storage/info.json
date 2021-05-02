@@ -43,6 +43,12 @@
 	],
 	"prizes": [
 		{
+			"title": "세종 피칭 & 멘토링데이",
+			"management": "세종대학교",
+			"date": "2021.03",
+			"content": "장려상"
+		},
+		{
 			"title": "SW 스타트업 창업 챌린지 공모전",
 			"management": "KOSA 한국소프트웨어산업협회",
 			"date": "2020.12",
