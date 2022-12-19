@@ -1,26 +1,21 @@
 {
   "files": {
-    "main.js": "/static/js/main.4c5e2b7b.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.f7b3195b.js",
-    "static/js/2.81cdcf67.chunk.js": "/static/js/2.81cdcf67.chunk.js",
+    "main.js": "/static/js/main.91ce3e9e.js",
     "index.html": "/index.html",
-    "static/js/2.81cdcf67.chunk.js.LICENSE.txt": "/static/js/2.81cdcf67.chunk.js.LICENSE.txt",
-    "static/media/bigHexagonal.1f2cfbf2.svg": "/static/media/bigHexagonal.1f2cfbf2.svg",
-    "static/media/clip.3cf66923.svg": "/static/media/clip.3cf66923.svg",
-    "static/media/close.17785974.svg": "/static/media/close.17785974.svg",
-    "static/media/firecracker.22b83a99.svg": "/static/media/firecracker.22b83a99.svg",
-    "static/media/hexaB.1e922c0e.svg": "/static/media/hexaB.1e922c0e.svg",
-    "static/media/hexaE.3a1b7206.svg": "/static/media/hexaE.3a1b7206.svg",
-    "static/media/hexaF.126c6c55.svg": "/static/media/hexaF.126c6c55.svg",
-    "static/media/hexaW.302a7a6b.svg": "/static/media/hexaW.302a7a6b.svg",
-    "static/media/hexagonal.5f7aff2e.svg": "/static/media/hexagonal.5f7aff2e.svg",
-    "static/media/inner.69ae6da2.svg": "/static/media/inner.69ae6da2.svg",
-    "static/media/outer.69950ee7.svg": "/static/media/outer.69950ee7.svg",
-    "static/media/print.d75bb48c.svg": "/static/media/print.d75bb48c.svg"
+    "static/media/hexaB.svg": "/static/media/hexaB.50827ff94a4017a330b68d3816f3bc9e.svg",
+    "static/media/hexaW.svg": "/static/media/hexaW.3d1c96cd73c92ae46a81cd65e4b09207.svg",
+    "static/media/hexaF.svg": "/static/media/hexaF.582b7672864631d89d5508a4f464c715.svg",
+    "static/media/hexaE.svg": "/static/media/hexaE.f67295c26304d44049f5d16ef5c3f338.svg",
+    "static/media/firecracker.svg": "/static/media/firecracker.22b83a99c15e064f87243d2bbb172ee5.svg",
+    "static/media/bigHexagonal.svg": "/static/media/bigHexagonal.387d48a69a45d93a695fffe91d342022.svg",
+    "static/media/hexagonal.svg": "/static/media/hexagonal.5f7aff2ed3a6b795e4183d8a7cf09df1.svg",
+    "static/media/print.svg": "/static/media/print.8d6288147070af983f37b0e29393b7a3.svg",
+    "static/media/close.svg": "/static/media/close.17785974befe7cba4bae23b70be74a2e.svg",
+    "static/media/inner.svg": "/static/media/inner.69ae6da2ef17ef8b098a4730d6625516.svg",
+    "static/media/outer.svg": "/static/media/outer.69950ee7d9ef0ad9285e698ee6baa095.svg",
+    "static/media/clip.svg": "/static/media/clip.3cf66923d761fd6d70dc415ce82af76c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f7b3195b.js",
-    "static/js/2.81cdcf67.chunk.js",
-    "static/js/main.4c5e2b7b.chunk.js"
+    "static/js/main.91ce3e9e.js"
   ]
 }
