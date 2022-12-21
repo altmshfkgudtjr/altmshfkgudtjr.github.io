@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.91ce3e9e.js",
+    "main.js": "/static/js/main.0b0f023f.js",
     "index.html": "/index.html",
     "static/media/hexaB.svg": "/static/media/hexaB.50827ff94a4017a330b68d3816f3bc9e.svg",
     "static/media/hexaW.svg": "/static/media/hexaW.3d1c96cd73c92ae46a81cd65e4b09207.svg",
@@ -16,6 +16,6 @@
     "static/media/clip.svg": "/static/media/clip.3cf66923d761fd6d70dc415ce82af76c.svg"
   },
   "entrypoints": [
-    "static/js/main.91ce3e9e.js"
+    "static/js/main.0b0f023f.js"
   ]
 }
